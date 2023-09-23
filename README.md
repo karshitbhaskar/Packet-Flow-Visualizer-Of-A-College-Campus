@@ -1,1 +1,8 @@
 # Packet-Flow-Visualizer-Of-A-College-Campus
+"The centerpiece of my experience in the Cisco Virtual Internship Program was the 'Packet Flow Visualizer' project. In this initiative, I embarked on the task of creating a detailed visual representation of data packet journeys originating from student devices within our college campus network to external networks. The project unfolded in two key phases: first, the meticulous creation of a network topology using Cisco Packet Tracer, which illustrated the various network devices, designs, and boundaries, showcasing the path from the host to the external network. Second, I ventured into packet flow investigation, collecting and analyzing data packets at each network node using packet sniffing techniques. This allowed me to extract vital information from packet headers, specifically tracking changes in Ethernet and IP headers. The outcome was a comprehensive flow diagram that vividly showcased the route of data packets from our devices (hosts) to external networks. Through this project, I gained a deeper understanding of network design, the OSI model, and the roles of different network devices, bolstering my expertise in network management and cybersecurity."
+
+PROJECT IMAGE:
+
+![College Network Topology And Packet Flow Investigation](https://github.com/karshitbhaskar/Packet-Flow-Visualizer-Of-A-College-Campus/assets/102131131/7511f422-3e92-4201-9625-7e4ddaa25282)
+INTERNSHIP CERTIFICATE:
+![Internship Certificate](https://github.com/karshitbhaskar/Packet-Flow-Visualizer-Of-A-College-Campus/assets/102131131/4a014e9c-18e3-43b5-8a57-b67f220f1f27)
